@@ -1,18 +1,18 @@
 body {
-  background: grey;
-  text-align: left;
-  font-family: 'Mate SC', serif;
-font-family: 'Raleway', sans-serif;
+  background: #8395a7;
+  text-align: center;
+ font-family: 'Inika', serif;
+
 }
 
 h1 {
   color: maroon;
-  font-family: 'Arial', cursive;
+font-family: 'Marko One', serif;
   font-size: 32px;
 }
 
 h2, h3, h4 {
-  font-family: 'Arial', cursive;
+ font-family: 'Marko One', serif;
   font-size: 28px;
 }
 
@@ -26,19 +26,15 @@ h4, ul, ol {
   text-align: left;
 }
 
-a, a:hover {
-  text-decoration: none;
-}
-
 p, ul, ol {
   font-size: 20px;
 }
 
-.navbar {
+.my-navbar {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background: #222f3e;
+  background: black;
 }
 
 .links {
